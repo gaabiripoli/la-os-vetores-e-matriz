@@ -1,8 +1,8 @@
 Algoritmo "votosemodelos"
 // Disciplina   : PA
 // Professor   : Cinitia Pinho
-// Descrição   : Faz uma votação para modelos
-// Autor(a)    : isadora walesca alves duarte
+// DescriÃ§Ã£o   : Faz uma votaÃ§Ã£o para modelos
+// Autor(a)    : gabriela ripoli
 // Data atual  : 30/09/2021
 Var
 
@@ -14,7 +14,7 @@ Inicio
 cont <- 1
 repita
       LimpaTela
-      Escreval ("Votação Jurado",cont,"sua modelo ecolhida é: ")
+      Escreval ("VotaÃ§Ã£o Jurado",cont,"sua modelo ecolhida Ã©: ")
       Escreval("Modelo Rafaela --> Digite 1")
       Escreval("Modelo Carla --> Digite 2")
       Escreval("Modelo Augusta --> Digite 3")
@@ -22,7 +22,7 @@ repita
       Escreval("Modelo Maria --> Digite 5")
       Escreval("Modelo Isabel --> Digite 6")
       leia(i)
-      enquanto (1<1) ou (i>6) faça
+      enquanto (1<1) ou (i>6) faÃ§a
          escreval("Digite sua modelo valida: Escolha entre os valores")
          escreval("Escolha ebtre os valores 1,2,3,4,5 ou 6 ")
          leia(i)
