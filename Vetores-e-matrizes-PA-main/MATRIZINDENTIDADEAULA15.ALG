@@ -1,9 +1,9 @@
 Algoritmo "matrizindentidadeaula15"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 22/07/2021
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
+// Professor   : Cintia pinho 
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
+// Autor(a)    : gabriela ripoli
+// Data atual  : 22/08/2021
 Var
   mid:vetor [1..4,1..4] de inteiro
   i,j:inteiro
