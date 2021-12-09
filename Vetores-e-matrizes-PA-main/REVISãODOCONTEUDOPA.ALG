@@ -1,21 +1,21 @@
-Algoritmo "revis„odoconteudo"
+Algoritmo "revis√£odoconteudo"
 // Disciplina   : [PA]
 // Professor   : cintia pinho
-// DescriÁ„o   :  acha o valor de x e y
-// Autor(a)    : isadora walesca alves duarte
+// Descri√ß√£o   :  acha o valor de x e y
+// Autor(a)    :  gabriela ripoli
 // Data atual  : 30/09/2021
 Var
     vet: vetor[1..10] de inteiro
     x, y, troca:inteiro
 Inicio
-para x de 1 ate 10 faÁa
+para x de 1 ate 10 fa√ßa
 vet [x] <- RANDI (100) + 1
 escreval (vet[x])
 fimpara
- //OrdenaÁ„o do vetor
+ //Ordena√ß√£o do vetor
  para x de 1 ate a 9 faca
  para y de x+1 ate 10 faca
- se (vet[x]) x (vet[y])ent„o
+ se (vet[x]) x (vet[y])ent√£o
  troca <- vet[x]
  vet [x] <- vet[y]
  vet [y] <- troca
