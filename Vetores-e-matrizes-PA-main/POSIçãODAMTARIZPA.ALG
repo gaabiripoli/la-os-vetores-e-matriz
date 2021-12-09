@@ -1,19 +1,19 @@
-Algoritmo "posiçãodamtariz"
+Algoritmo "posiÃ§Ã£odamtariz"
 // Disciplina   : [PA]
-// Professor   :cintia pnho
-// Descrição   : o programa ve a matriz que deve ser posiocionada
-// Autor(a)    : isadora walesca alves duarte
+// Professor   : cintia pnho
+// DescriÃ§Ã£o   : o programa ve a matriz que deve ser posiocionada
+// Autor(a)    : gabriela ripoli
 // Data atual  : 30/09/2021
 Var
    matriz:vetor [1..2,1..3] de inteiro
    x,y :inteiro
 Inicio
-    para y de 1 ate a 3 faça
-    escreval("Vamos montar uma matriz,escolha a posição"(",x,"(",y,")))
+    para y de 1 ate a 3 faÃ§a
+    escreval("Vamos montar uma matriz,escolha a posiÃ§Ã£o"(",x,"(",y,")))
     leia (matriz[x,y])
     fimpara
-    para x de 1 até 2 faça
-    para y de 1 ate a 3 faça
+    para x de 1 atÃ© 2 faÃ§a
+    para y de 1 ate a 3 faÃ§a
     escrvea(matriz[x,y]:3)
     fimpara
     escreval("") //pularlinha
