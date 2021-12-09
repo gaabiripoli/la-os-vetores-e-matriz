@@ -1,9 +1,9 @@
 Algoritmo "ordenavetoraula14"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 03/07/2021
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
+// Professor   : Cintia Pinho 
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
+// Autor(a)    : gabriela ripoli
+// Data atual  : 03/08/2021
 Var
 vet:vetor[1..4] de inteiro
 i,j,aux:inteiro
