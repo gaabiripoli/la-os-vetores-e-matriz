@@ -1,16 +1,16 @@
 Algoritmo "video30exercicio1"
 // Disciplina   : [PA]
 // Professor   : Cintia pinho
-// Descrição   : testes de matriz
-// Autor(a)    : isadora walesca alves duarte
+// DescriÃ§Ã£o   : testes de matriz
+// Autor(a)    : gabriela ripoli
 // Data atual  : 30/09/2021
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
    matriz:vetor [1..2,1..3] de inteiro
    x,y :inteiro
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   // SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
    matriz[1,1] <- 4
    matriz[1,2] <- 6
    matriz[1,3] <- 8
