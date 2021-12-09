@@ -1,8 +1,8 @@
 Algoritmo "listagemdealunos"
 // Disciplina   : [PA]
 // Professor   : Cintia pinho
-// Descrição   : ve os dados e a nota de cada estudante
-// Autor(a)    : isadora walesca alves duarte
+// DescriÃ§Ã£o   : ve os dados e a nota de cada estudante
+// Autor(a)    : gabriela ripoli
 // Data atual  : 30/09/2021
 var
   nome: vetor[1..5] de Caractere
